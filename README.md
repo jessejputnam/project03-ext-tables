@@ -1,5 +1,7 @@
 # External Tables for Project 03
 
+[Link for ERD](https://app.quickdatabasediagrams.com/#/d/gmgdc4)
+
 Completed tables are found in \_final folder as CSV files. Other folders contain code that generated the tables
 
 **Currently complete:**
