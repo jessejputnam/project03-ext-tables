@@ -1,7 +1,8 @@
 # External Tables for Project 03
 
 Completed tables are found in \_final folder as CSV files. Other folders contain code that generated the tables
-Currently complete:
+
+**Currently complete:**
 
 ### Country
 
